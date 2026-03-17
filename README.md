@@ -6,7 +6,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jgcarter-at-bu-edu/MSFin_S2026/blob/main/MSFin_PS05_Macro_Evaluation.ipynb)
 
-  NOTE: Timeout issues may occur if you use a VPN. The _ADJ version below may overcome these issues, but be aware VPN may be the root.
+  NOTE: Timeout issues may occur if you use a VPN. The _ADJ version may work solve the issue. If not, try with your VPN off.
 
 ### Problem Set 5 Notebook - UPDATED FOR TIMEOUT ISSUES
 
