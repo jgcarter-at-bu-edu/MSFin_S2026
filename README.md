@@ -12,6 +12,14 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jgcarter-at-bu-edu/MSFin_S2026/blob/main/MSFin_PS05_Macro_Evaluation_ADJ.ipynb)
 
+### L11 Diversification
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jgcarter-at-bu-edu/MSFin_S2026/blob/main/L11_Diversification_Example.ipynb)
+
+### L11 DD and VaR
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jgcarter-at-bu-edu/MSFin_S2026/blob/main/L11_DD_and_VaR_Example.ipynb)
+
 Student Instructions:
 
 Click the Open in Colab button.
