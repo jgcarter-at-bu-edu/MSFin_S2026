@@ -16,7 +16,9 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jgcarter-at-bu-edu/MSFin_S2026/blob/main/L11_DD_and_VaR_Example.ipynb)
 
-Student Instructions:
+### Problem Set 6 Notebook
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jgcarter-at-bu-edu/MSFin_S2026/blob/main/MSFin_PS06_Analysis_Tool.ipynb)Student Instructions:
 
 Click the Open in Colab button.
 
