@@ -24,7 +24,9 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jgcarter-at-bu-edu/MSFin_S2026/blob/main/L12_InClass_Working_Script.ipynb)
 
-Student Instructions:
+### L15 Log Regression
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jgcarter-at-bu-edu/MSFin_S2026/blob/main/L15_LogRegression_Analysis_Tool_CC.ipynb)Student Instructions:
 
 Click the Open in Colab button.
 
