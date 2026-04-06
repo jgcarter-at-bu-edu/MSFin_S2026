@@ -26,7 +26,13 @@
 
 ### L15 Log Regression
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jgcarter-at-bu-edu/MSFin_S2026/blob/main/L15_LogRegression_Analysis_Tool_CC.ipynb)Student Instructions:
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jgcarter-at-bu-edu/MSFin_S2026/blob/main/L15_LogRegression_Analysis_Tool_CC.ipynb)
+
+### L16 Log Regression
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jgcarter-at-bu-edu/MSFin_S2026/blob/main/L16_LogRegression_Analysis_Pull_OS.ipynb)
+
+Student Instructions:
 
 Click the Open in Colab button.
 
