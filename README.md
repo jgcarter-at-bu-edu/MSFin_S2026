@@ -28,9 +28,9 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jgcarter-at-bu-edu/MSFin_S2026/blob/main/L15_LogRegression_Analysis_Tool_CC.ipynb)
 
-### L16 Log Regression
+### L16 Log Regression Updated
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jgcarter-at-bu-edu/MSFin_S2026/blob/main/L16_LogRegression_PULL_OS.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jgcarter-at-bu-edu/MSFin_S2026/blob/main/L16_LogRegression_Analysis_PULL_CLASS.ipynb)
 
 Student Instructions:
 
