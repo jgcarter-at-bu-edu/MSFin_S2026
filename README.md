@@ -32,6 +32,15 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jgcarter-at-bu-edu/MSFin_S2026/blob/main/L16_LogRegression_Analysis_PULL_CLASS.ipynb)
 
+### Final Project Drawdown
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jgcarter-at-bu-edu/MSFin_S2026/blob/main/FF4_DrawdownLogit_VIX_PROD.ipynb)
+
+### Final Project Upside
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jgcarter-at-bu-edu/MSFin_S2026/blob/main/FF4_UpsideLogit_VIX_PROD.ipynb)
+
+
 Student Instructions:
 
 Click the Open in Colab button.
