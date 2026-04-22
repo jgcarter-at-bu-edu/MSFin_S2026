@@ -38,7 +38,7 @@
 
 ### Final Project Upside
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jgcarter-at-bu-edu/MSFin_S2026/blob/main/FF4_UpsideLogit_VIX_PROD.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jgcarter-at-bu-edu/MSFin_S2026/blob/main/FF4_UpsideLogit_1990_VIX_PROD.ipynb)
 
 
 Student Instructions:
