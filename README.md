@@ -40,6 +40,22 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jgcarter-at-bu-edu/MSFin_S2026/blob/main/FF4_UpsideLogit_1990_VIX_PROD.ipynb)
 
+### Final Project Drawdown PROD
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jgcarter-at-bu-edu/MSFin_S2026/blob/main/FE747_DRAWDOWN_PROD.ipynb)
+
+### Final Project Upside PROD
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jgcarter-at-bu-edu/MSFin_S2026/blob/main/FE747_UPSIDE_PROD.ipynb)
+
+### Final Project Simulation PROD
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jgcarter-at-bu-edu/MSFin_S2026/blob/main/FE747_SIM_ENGINE_PROD.ipynb)
+
+### Final Project Diagnostics PROD
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jgcarter-at-bu-edu/MSFin_S2026/blob/main/FE747_DIAGNOSTICS_PROD.ipynb)
+
 
 Student Instructions:
 
